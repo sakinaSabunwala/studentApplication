@@ -1,0 +1,20 @@
+{
+  "students": [
+    {
+      "Fname": "sakina",
+      "Lname": "sabunwala",
+      "Cllgname": "xxxxxxxxxx",
+      "Rollno": "gits73",
+      "Address": "udp",
+      "id": 1
+    },
+    {
+      "Fname": "dsdf",
+      "Lname": "sdsad",
+      "Cllgname": "dsdscxzc",
+      "Rollno": "dsd",
+      "Address": "sfsdf",
+      "id": 2
+    }
+  ]
+}
